@@ -1,6 +1,6 @@
 # CYOA Story App
 
-This is a story app that my friend and I have built using SwiftUI. Here are some iamges
+This is a story app that my friend and I have built using SwiftUI. Here are some images:
 
 <table>
   <tr>
